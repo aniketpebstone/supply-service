@@ -1,0 +1,47 @@
+[
+		{
+			"company": "Samsung",
+			"model": "Galaxy S20+",
+			"price": 73999,
+			"ram_in_gb": 8,
+			"battery_capacity_in_milliamps": 4500,
+			"operatingSystem":"Android 10",
+			"stocks":40
+		},
+		{
+			"company": "Redmi",
+			"model": "8",
+			"price": 8499,
+			"ram_in_gb": 4,
+			"battery_capacity_in_milliamps": 5000,
+			"operatingSystem":"Android Pie 9",
+			"stocks":33
+		},
+		{
+			"company": "Vivo",
+			"model": "Z1Pro",
+			"price": 15999,
+			"ram_in_gb": 6,
+			"battery_capacity_in_milliamps": 5000,
+			"operatingSystem":"Android Pie 9",
+			"stocks":50
+		},
+		{		
+			"company": "OPPO",
+			"model": "A5s",
+			"price": 8990,
+			"ram_in_gb": 3,
+			"battery_capacity_in_milliamps": 4230,
+			"operatingSystem":"Android Oreo 8.1",
+			"stocks":25
+		},
+		{
+			"company": "Google",
+			"model": "Pixel 3a",
+			"price": 30999,
+			"ram_in_gb": 4,
+			"battery_capacity_in_milliamps": 3000,
+			"operatingSystem":"Android Pie 9.0",
+			"stocks":55
+		}
+]
